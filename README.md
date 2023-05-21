@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://www.uc4n.com"><img src="https://i.ibb.co/k6FC4xP/DALL-E-2023-03-24-16-18-13-3d-fire-logo-in-blue-color-removebg-preview-1.png" alt="Uc4n" width="200"></a>
+  <a href="https://www.uc4n.com"><img src="https://i.ibb.co/6PHFz9g" alt="Uc4n" width="200"></a>
   <br>
   TaskTrackerApp
   <br>
